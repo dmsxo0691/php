@@ -8,10 +8,10 @@
 </head>
 <body> 
 	<header>
-    	<?php include "header.php";?>
+    	<?php include "header2.php";?>
     </header>
 	<section>
-	    <?php include "main.php";?>
+	    <?php include "main2.php";?>
 	</section> 
 	<footer>
     	<?php include "footer.php";?>
